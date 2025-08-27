@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--START_SECTION:chessStats-->
-<!--END_SECTION:chessStats-->
+START_SECTION:chessStats
+
+END_SECTION:chessStats
